@@ -13,8 +13,6 @@ Humans-Are-Fake is a Deep Convolutional Generative Adversarial Network (DCGAN) t
 > View notebook on [Kaggle](https://www.kaggle.com/sanidhyak/humans-are-fake)
 <br>
 
->
-
 ### ⚒️ Architecture
 <br>
 

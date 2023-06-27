@@ -2,7 +2,7 @@
 
 <br>
 
-This folder contains all the model checkpoints along with their index which were generated while training after every 5 epoch.
+This folder contains all the generator and discriminator model checkpoints along with their index which were generated while training after every 5 epoch.
 
 <br>
 

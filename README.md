@@ -13,6 +13,15 @@ Humans-Are-Fake is a Deep Convolutional Generative Adversarial Network (DCGAN) t
 > View notebook on [Kaggle](https://www.kaggle.com/sanidhyak/humans-are-fake)
 <br>
 
+### ⚡ How to use the trained model?
+<br>
+
+- Both, the generator models and the discriminator models were stored along with their indexes after every 5 epoch of training.
+- Unzip the [zip file](https://github.com/notsanidhyak/Humans-Are-Fake/blob/main/Model_Checkpoints.zip) containing all the checkpoints.
+- Download and use the stable version (ckpt-6).
+
+<br>
+
 ### ⚒️ Architecture
 <br>
 
